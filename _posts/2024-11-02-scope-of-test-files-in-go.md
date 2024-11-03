@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SCOPE OF TEST FILES IN GO"
+title:  "Scope Of Test Files In Go"
 date:   2024-11-02
 category: til
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HELLO WORLD"
+title:  "Hello World"
 date:   2024-11-02
 category: til
 ---
