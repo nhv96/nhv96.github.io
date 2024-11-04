@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2024-11-04
+date:   2024-11-02
 category: til
 ---
 # How to get started with Go
